@@ -74,3 +74,11 @@ for i in range(len(matriz)): #recorrer las filas
 #puedo modificar valores en la matriz
 #podemos cambiar un valor aceddiendo directamente por la posicion 
         
+matriz[1][1] = 99
+print(f"la matriz ha quedado asi: {matriz}")
+
+#operaciones comunes con matrices
+#algunas operaciones importantes que se pueden realizar sobre matrices incluyen:
+
+#llenado de matrices con datos del usuario
+#suma de elementos

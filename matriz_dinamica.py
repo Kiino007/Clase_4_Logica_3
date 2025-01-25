@@ -12,10 +12,10 @@ matriz = []
 for i in range(filas):
     fila = []
     for j in range(columnas):
-        valor = int(input(f"Ingrese el valor para la posicion [{i}][{j}]"))
+        valor = int(input(f"Ingrese el valor para la posicion [{i}][{j}]: "))
         fila.append(fila)
+    matriz.append(fila)
 
-    print("matriz ingresada: ")
-    for fila in matriz:
-        print(fila)
-        
+print("matriz ingresada: ")
+for fila in matriz:
+    print(fila)

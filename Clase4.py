@@ -81,4 +81,6 @@ print(f"la matriz ha quedado asi: {matriz}")
 #algunas operaciones importantes que se pueden realizar sobre matrices incluyen:
 
 #llenado de matrices con datos del usuario
-#suma de elementos
+#suma de elementos de la matriz
+#busqueda de un elemento especifico
+#transposicion de la matriz (intercambio de filas por columnas) 
